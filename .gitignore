@@ -1,0 +1,17 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+
+# Base de données locale (si tu utilises SQLite)
+db.sqlite3
+
+# Config VS Code ou autres IDE
+.vscode/
+.idea/
+
+# Dossiers statiques générés
+/staticfiles/
+media/
